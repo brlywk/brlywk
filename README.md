@@ -6,7 +6,7 @@ I've been working in IT for pretty much all my life, mostly as a project manager
 - 🔭 I’m currently working on:
   - A rewrite of the final project I did for the bootcamp I took, but in Next.js with tRPC, Drizzle and PlanetScale
   - Creating a small utility app that helps me keep my dotfiles synced
-  - Starting my first tiny littel NeoVim plugin (for a niche need I have right now) 🤫
+  - Starting my first tiny little NeoVim plugin (for a niche need I have right now) 🤫
   
 - 🌱 I’m currently learning:
   - Next.js
