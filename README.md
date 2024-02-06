@@ -12,7 +12,6 @@ I've been working in IT for pretty much all my life, mostly as a project manager
   - Next.js
   - Vue / Nuxt
   - Go
-  - Lua
 
 - 💬 Ask me about:
   - Why a raw sawtooth wave is still the best synthesizer sound ever 😉
