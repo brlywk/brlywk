@@ -4,14 +4,12 @@ I've been working in IT for pretty much all my life, mostly as a project manager
 
 
 - 🔭 I’m currently working on:
-  - A rewrite of the final project I did for the bootcamp I took, but in Next.js with tRPC, Drizzle and PlanetScale
-  - Creating a small utility app that helps me keep my dotfiles synced (very early stages)
+  - An app to track expenses without all the bells and whistles of your average "budget trackers"
   - Starting my first tiny little NeoVim plugin (for a niche need I have right now) 🤫
   
 - 🌱 I’m currently learning:
-  - Next.js
   - Vue / Nuxt
-  - Go
+  - Rust / Tauri
 
 - 💬 Ask me about:
   - Why a raw sawtooth wave is still the best synthesizer sound ever 😉
