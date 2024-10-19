@@ -8,8 +8,9 @@ I've been working in IT for pretty much all my life, mostly as a project manager
   - Starting my first tiny little NeoVim plugin (for a niche need I have right now) 🤫
   
 - 🌱 I’m currently learning:
-  - Vue / Nuxt
-  - Rust / Tauri
+  - Rust
+  - Wails (Go)
+  - Svelte / HTMX
 
 - 💬 Ask me about:
   - Why a raw sawtooth wave is still the best synthesizer sound ever 😉
