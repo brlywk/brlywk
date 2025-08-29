@@ -12,7 +12,7 @@ I'm a software developer from Germany who loves learning new languages and pushi
   - Discord: dreamstate42
  
 - 🚀 Currently really into:
-  - Rust / Bevy
+  - Rust
   - Odin / Raylib
   - Svelte
   - Zwo Cola Zero
